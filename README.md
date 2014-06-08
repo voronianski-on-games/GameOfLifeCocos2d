@@ -6,9 +6,7 @@ An implementation of [Conway's Game of Life](http://en.wikipedia.org/wiki/Conway
 
 ## Details
 
-It's one of the different implemetations based on the **The Game of Life** - cellular automaton devised by the British mathematician John Horton Conway in 1970.
-
-You can check out and compare the same game implemented in [Swift + SpriteKit](https://github.com/voronianski-on-games/GameOfLifeSwift) or [Objective-C + SpriteKit](https://github.com/voronianski-on-games/GameOfLifeSpriteKit).
+It's one of the implemetations based on the **The Game of Life** - cellular automaton devised by the British mathematician John Horton Conway in 1970. You can check out and compare the same game implemented in [Swift + SpriteKit](https://github.com/voronianski-on-games/GameOfLifeSwift) or [Objective-C + SpriteKit](https://github.com/voronianski-on-games/GameOfLifeSpriteKit).
 
 ## References
 
